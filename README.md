@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# FaceId ile Oturum Yönetimi
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+FaceId teknolojisiyle oturum yönetimi sağlayan bir GitHub deposu. Yüz tanıma tabanlı kimlik doğrulama kullanarak güvenli oturum açma ve yönetim işlemlerini destekler.
